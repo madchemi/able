@@ -1,0 +1,2 @@
+.navbar{display:flex;min-width:1000px;position:fixed;width:100%;z-index:100}.content{display:block;position:relative;top:56px}.slide{margin:0;padding-left:80px}.start{opacity:0}.end{opacity:1;transition:opacity .5s}.main-bg{background-position:50%;background-size:cover;display:block;height:300px;min-width:900px;transition:width .5s;width:100vw}.main-bg,.scroll{position:relative}.scroll{overflow:hidden}.row{position:relative;width:900px}.App{background-color:#fff;letter-spacing:-.8px;text-align:center}
+/*# sourceMappingURL=main.062a9838.css.map*/
